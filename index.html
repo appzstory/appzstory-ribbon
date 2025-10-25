@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AppzStory Ribbon - Example</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 40px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            color: white;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: rgba(255, 255, 255, 0.1);
+            padding: 30px;
+            border-radius: 10px;
+            backdrop-filter: blur(10px);
+        }
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 20px;
+        }
+        p {
+            font-size: 1.2em;
+            line-height: 1.6;
+        }
+        .code-block {
+            background: rgba(0, 0, 0, 0.3);
+            padding: 20px;
+            border-radius: 5px;
+            margin: 20px 0;
+            overflow-x: auto;
+        }
+        code {
+            color: #ffd700;
+            font-family: 'Courier New', monospace;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🖤 AppzStory Ribbon</h1>
+        <p>Simple black mourning ribbon for websites.</p>
+        <p>ริบบิ้นไว้อาลัยสีดำ สำหรับใช้ติดมุมเว็บไซต์ เพื่อไว้อาลัยอย่างสุภาพ</p>
+        
+        <h2>📦 How to use / วิธีใช้งาน</h2>
+        <p>Add this code before the closing &lt;/body&gt; tag:</p>
+        <div class="code-block">
+            <code>
+&lt;!-- 🖤 Ribbon Bottom Right --&gt;<br>
+&lt;img src="https://raw.githubusercontent.com/appzstory/appzstory-ribbon/main/black_ribbon_bottom_right.png"<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alt="black ribbon"<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;style="position:fixed;bottom:0;right:0;width:80px;opacity:0.9;z-index:9999;pointer-events:none;"&gt;
+            </code>
+        </div>
+        
+        <p>The ribbon is now displayed in the bottom-right corner of this page as an example.</p>
+        <p>ริบบิ้นจะแสดงที่มุมล่างขวาของหน้านี้เป็นตัวอย่าง</p>
+    </div>
+
+    <!-- 🖤 Ribbon Bottom Right -->
+    <img src="https://raw.githubusercontent.com/appzstory/appzstory-ribbon/main/black_ribbon_bottom_right.png"
+         alt="black ribbon"
+         style="position:fixed;bottom:0;right:0;width:80px;opacity:0.9;z-index:9999;pointer-events:none;">
+
+</body>
+</html>
