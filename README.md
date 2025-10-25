@@ -18,7 +18,7 @@
 ### 1. ริบบิ้นมุมบนซ้าย (Top-Left Ribbon)
 
 ```html
-<img src="[https://raw.githubusercontent.com/appzstory/appzstory-ribbon/main/black_ribbon_top_left.png](https://raw.githubusercontent.com/appzstory/appzstory-ribbon/main/black_ribbon_top_left.png)" 
+<img src="https://raw.githubusercontent.com/appzstory/appzstory-ribbon/main/black_ribbon_top_left.png" 
      alt="Black Ribbon Top Left" 
      style="position:fixed; top:0; left:0; width:80px; opacity:0.9; z-index:9999; pointer-events:none;">
 ```
@@ -28,7 +28,7 @@
 ### 2. ริบบิ้นมุมบนขวา (Top-Right Ribbon)
 
 ```html
-<img src="[https://raw.githubusercontent.com/appzstory/appzstory-ribbon/main/black_ribbon_top_right.png](https://raw.githubusercontent.com/appzstory/appzstory-ribbon/main/black_ribbon_top_right.png)" 
+<img src="https://raw.githubusercontent.com/appzstory/appzstory-ribbon/main/black_ribbon_top_right.png" 
      alt="Black Ribbon Top Right" 
      style="position:fixed; top:0; right:0; width:80px; opacity:0.9; z-index:9999; pointer-events:none;">
 ```
@@ -38,7 +38,7 @@
 ### 3. ริบบิ้นมุมล่างซ้าย (Bottom-Left Ribbon)
 
 ```html
-<img src="[https://raw.githubusercontent.com/appzstory/appzstory-ribbon/main/black_ribbon_bottom_left.png](https://raw.githubusercontent.com/appzstory/appzstory-ribbon/main/black_ribbon_bottom_left.png)" 
+<img src="https://raw.githubusercontent.com/appzstory/appzstory-ribbon/main/black_ribbon_bottom_left.png" 
      alt="Black Ribbon Bottom Left" 
      style="position:fixed; bottom:0; left:0; width:80px; opacity:0.9; z-index:9999; pointer-events:none;">
 ```
@@ -48,7 +48,7 @@
 ### 4. ริบบิ้นมุมล่างขวา (Bottom-Right Ribbon)
 
 ```html
-<img src="[https://raw.githubusercontent.com/appzstory/appzstory-ribbon/main/black_ribbon_bottom_right.png](https://raw.githubusercontent.com/appzstory/appzstory-ribbon/main/black_ribbon_bottom_right.png)" 
+<img src="https://raw.githubusercontent.com/appzstory/appzstory-ribbon/main/black_ribbon_bottom_right.png" 
      alt="Black Ribbon Bottom Right" 
      style="position:fixed; bottom:0; right:0; width:80px; opacity:0.9; z-index:9999; pointer-events:none;">
 ```
